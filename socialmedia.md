@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Media
+title: Social Media
 ---
 
 ## The Official Twitter
