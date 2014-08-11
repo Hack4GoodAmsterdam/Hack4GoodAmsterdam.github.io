@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Temas
+playout: page
+ptitle: Temas
 ---
 
 Mas de 2000 ingenieros de software, hackers, diseñadores UI/UX, fabricantes, fundadores, lideres de opinion, pensadores y organizaciones civicas se reuniran este septiembre en mas de 30 ciudades para trabajar en contra del cambio climatico, creando prototipos de soluciones tecnologicas (como sitios webs, aplicaciones mobiles y dispositivos de hardware) que hagan frente a los siguientes retos:

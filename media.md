@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Media
+playout: page
+ptitle: Media
 ---
 
 ## Cuenta oficial de Twitter

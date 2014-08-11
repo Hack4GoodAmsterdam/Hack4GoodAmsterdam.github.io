@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Calendario
+playout: page
+ptitle: Calendario
 ---
 
 ## 12 Septiembre
