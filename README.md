@@ -1,4 +1,4 @@
-# Official Hack4Good Santiago Website
+# Official Hack4Good Amsterdam Website
 
 http://hack4goodamsterdam.github.io
 
@@ -6,7 +6,7 @@ http://hack4goodamsterdam.github.io
 
 If you want to use this site as a template for your hack4good city site just:
 
-* Fork this repo.
+* Fork the repository of [Santiago](https://github.com/Hack4GoodSantiago/Hack4GoodSantiago.github.io)
 
 * Install [Jekyll](http://jekyllrb.com/docs/installation/):
 
