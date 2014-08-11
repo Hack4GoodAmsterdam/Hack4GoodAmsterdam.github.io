@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'Geeklist hack4good Santiago'
-tagline:          'Santiago'
-description:      'Unidos globalmente hackeamos un mundo mejor'
-url:              http://hack4goodsantiago.github.io
+title:            'Geeklist hack4good Amsterdam'
+tagline:          'Amsterdam'
+description:      'United globally we hack a better world'
+url:              http://hack4goodamsterdam.github.io
 baseurl:          /
 
 author:
-  name:           'Raul Pino'
-  url:            https://twitter.com/p1nox
+  name:           'Camiel R. Verschoor'
+  url:            https://twitter.com/Camiel_V
 
 paginate:         5
 
