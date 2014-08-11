@@ -1,6 +1,6 @@
 # Official Hack4Good Santiago Website
 
-http://hack4goodsantiago.github.io
+http://hack4goodamsterdam.github.io
 
 # Usage
 
