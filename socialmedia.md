@@ -3,7 +3,7 @@ layout: page
 title: Social Media
 ---
 
-## The Official Twitter
+## The Official Twitter 
 
 <a class="twitter-timeline" href="https://twitter.com/Hack4GoodAmsterdam" data-widget-id="498931952494202880">
   Tweet @Hack4GoodAmsterdam
