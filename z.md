@@ -4,16 +4,16 @@ title: Local Organisation
 ---
 **Geeklist \#hack4good Amsterdam** is voluntarily organised by:
 
-![Camiel]({{ site.baseurl }}public/images/camiel.jpeg) Camiel R. Verschoor (Lead Ambassador) > I believe that everyone can contribute to a better world for humanity, and therefore, we organize #hack4good to give everyone a opportunity to contribute!
+![Camiel]({{ site.baseurl }}public/images/camiel.jpeg) **Camiel R. Verschoor** (Lead Ambassador): *"I believe that everyone can contribute to a better world for humanity, and therefore, we organize #hack4good to give everyone a opportunity to contribute!"*
 
-Karin van Soest (Ambassador)
+**Karin van Soest** (Ambassador)
 
-Stijn de Bekker
+**Stijn de Bekker**
 
-![Ella]({{ site.baseurl }}public/images/ella.jpg) Ella Gati 
+![Ella]({{ site.baseurl }}public/images/ella.jpg) **Ella Gati** 
 
-Lydia Mennes
+**Lydia Mennes**
 
-Daria Reutovich
+**Daria Reutovich**
 
-![Marc]({{ site.baseurl }}public/images/marc.jpg) Marc de Ruyter > Landlord 4 a living, hacker 4 the heart
+![Marc]({{ site.baseurl }}public/images/marc.jpg) **Marc de Ruyter**: *"Landlord 4 a living, hacker 4 the heart"*
