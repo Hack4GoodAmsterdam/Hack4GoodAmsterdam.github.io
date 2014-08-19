@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Theme
+title: Climate Change
 ---
-Uniting globally 12-14 September 2014, 3,000+ leading software engineers, hackers, ui/ux designers, product makers, founders, thought leaders and civic-minded organisations will gather in 40+ global cities to hack against climate change, building prototypes of technology solutions that address 15 global climate change challenges in three categories:
+![Fauna & Flora](public/images/florafauna.jpg)
 
 ### Climate Awareness Challenges
 * **Public awareness:** Gain a critical mass of public awareness and support for addressing climate change
