@@ -2,7 +2,7 @@
 layout: page
 title: Climate Change
 ---
-![Fauna & Flora](https://github.com/Hack4GoodAmsterdam/Hack4GoodAmsterdam.github.io/blob/master/public/images/florafauna.png)
+![Fauna & Flora]({{ site.baseurl }}public/images/florafauna.png)
 
 ### Climate Awareness Challenges
 * **Public awareness:** Gain a critical mass of public awareness and support for addressing climate change
