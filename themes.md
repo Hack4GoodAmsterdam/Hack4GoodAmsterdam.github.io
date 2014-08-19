@@ -2,7 +2,7 @@
 layout: page
 title: Climate Change
 ---
-![Fauna & Flora](public/images/florafauna.jpg)
+![Fauna & Flora](public/images/florafauna.png)
 
 ### Climate Awareness Challenges
 * **Public awareness:** Gain a critical mass of public awareness and support for addressing climate change
