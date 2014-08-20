@@ -10,7 +10,7 @@ title: Local Organisation
 
 <span><img src="{{ site.baseurl }}public/images/marc.jpg" style="float:left;padding-right:15px" alt="Marc"/> **Marc de Ruyter**: *"Landlord 4 a living, hacker 4 the heart"* </span>
 <br/><br/><br/><br/><br/>
-<span><img src="{{ site.baseurl }}public/images/ella.jpg" style="float:left;padding-right:15px" alt="Ella"/> **Ella Gati**: *"Hack4Good combines my passion to technology and the environment"* </span>
+<span><img src="{{ site.baseurl }}public/images/ella.jpg" style="float:left;padding-right:15px" alt="Ella"/> **Ella Gati**: *"Hack4Good combines my passion for technology and for the environment"* </span>
 <br/><br/><br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Stijn"/> **Stijn de Bekker**</span>
 <br/><br/><br/><br/><br/>
