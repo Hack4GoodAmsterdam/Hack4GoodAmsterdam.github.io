@@ -4,9 +4,7 @@ title: Climate Change Challenges
 ---
 #### Challenge Partners
 <span>
-<a href="http://www.fauna-flora.org/" target="_new"><img title="Fauna & Flora" src="{{ site.baseurl }}public/images/florafauna.png" /></a>
-<a href="https://www.gov.uk/government/organisations/department-of-energy-climate-change" target="_new"><img title="Department of Energy & Climate Change" src="{{ site.baseurl }}public/images/depenergy.png" /></a>
-<a href="http://350.org/" target="_new"><img title="350.org" src="{{ site.baseurl }}public/images/350org.png" /></a>
+<a href="http://www.fauna-flora.org/" target="_new"><img title="Fauna & Flora" src="{{ site.baseurl }}public/images/florafauna.png" /></a><a href="https://www.gov.uk/government/organisations/department-of-energy-climate-change" target="_new"><img title="Department of Energy & Climate Change" src="{{ site.baseurl }}public/images/depenergy.png" /></a><a href="http://350.org/" target="_new"><img title="350.org" src="{{ site.baseurl }}public/images/350org.png" /></a>
 </span>
 [![Fauna & Flora]({{ site.baseurl }}public/images/florafauna.png)](http://www.fauna-flora.org/)[![Department of Energy & Climate Change]({{ site.baseurl }}public/images/depenergy.png)](https://www.gov.uk/government/organisations/department-of-energy-climate-change)
 [![350.org]({{ site.baseurl }}public/images/350org.png)](http://350.org/)
