@@ -4,7 +4,7 @@ title: Local Organisation
 ---
 **Geeklist \#hack4good Amsterdam** is voluntarily organised by:
 
-<span><img src="{{ site.baseurl }}public/images/camiel.jpeg" style="float:left;padding-right:15px" alt="Camiel"/> **Camiel R. Verschoor** (Lead Ambassador): *"I believe that everyone can contribute to a better world for humanity, and therefore, we organize #hack4good to give everyone a opportunity to contribute!"* </span>
+<span><img src="{{ site.baseurl }}public/images/camiel.jpeg" style="float:left;padding-right:15px" alt="Camiel"/> **Camiel R. Verschoor** (Lead Ambassador): *"I believe that everyone can contribute to a better world for humanity, and therefore, we organize #hack4good to give everyone an opportunity to contribute!"* </span>
 
 <span><img src="{{ site.baseurl }}public/images/karin.jpg" style="float:left;padding-right:15px" alt="Karin"/> **Karin van Soest** (Ambassador): *"Connecting people inspires me, and the possibilities that are continuously created on a local, global, virtual or even a personal level. The outcome of each new connection is endless."*</span>
 
