@@ -3,7 +3,7 @@ layout: page
 title: Climate Change Challenges
 ---
 #### Challenge Partners
-[![Fauna & Flora]({{ site.baseurl }}public/images/florafauna.png)](http://www.fauna-flora.org/) [![Department of Energy & Climate Change]({{ site.baseurl }}public/images/depenergy.png)](https://www.gov.uk/government/organisations/department-of-energy-climate-change)
+[![Fauna & Flora]({{ site.baseurl }}public/images/florafauna.png)](http://www.fauna-flora.org/)[![Department of Energy & Climate Change]({{ site.baseurl }}public/images/depenergy.png)](https://www.gov.uk/government/organisations/department-of-energy-climate-change)
 [![350.org]({{ site.baseurl }}public/images/350org.png)](http://350.org/)
 [![Friends of the Earth]({{ site.baseurl }}public/images/friends.png)](http://www.foe.co.uk/)
 [![We Forest]({{ site.baseurl }}public/images/weforest.png)](http://www.weforest.org/)
