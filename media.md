@@ -3,18 +3,16 @@ layout: page
 title: Press and Media
 ---
 ## Persberichten
-### #hack4good 0.6 against Climate Change
 <a href="{{ site.baseurl }}public/press/hack4good-0.6-Nederlands-1.pdf" target="_new">**Amsterdam hackt internationaal mee tegen klimaatverandering**</a>
 
 ## Press releases
-### #hack4good 0.6 against Climate Change
 <a href="{{ site.baseurl }}public/press/hack4good-0.6-English-1.pdf" target="_new">**Amsterdam joins the world's largest Hackathon for Climate Change**</a>
 
-## Coverage previous #hack4good events:
-### #hack4good 0.5
+### Coverage previous #hack4good events:
+#### #hack4good 0.5
 * <a href="http://www.theguardian.com/global-development-professionals-network/2014/feb/19/hackathon-apps-developers-hack4good" target="_new">**Guardian**: How to ... make the most of a hackathon</a>
 
-### #hack4good 0.4
+#### #hack4good 0.4
 * <a href="http://youtu.be/J-NKMCd9NXY" target="_new">**Sky News**: #hack4good (Video)</a>
 * <a href="http://youtu.be/LceCXlchi98" target="_new">**BBC World News**: #hack4good (Video)</a>
 * <a href="http://nos.nl/op3/artikel/574043-wat-nerds-doen-voor-de-filipijnen.html" target="_new">**NOS:** Wat nerds doen voor de Filipijnen (Video)</a>
