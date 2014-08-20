@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press/Media
+title: Press and Media
 ---
 
 * <a href="{{ site.baseurl }}public/press/hack4good-0.6-Nederlands-1.pdf" target="_new"> **Amsterdam hackt internationaal mee tegen klimaatverandering**</a>
