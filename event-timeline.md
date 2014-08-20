@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timeline
+title: Event Timeline
 ---
 
 ### Pre-hackathon
