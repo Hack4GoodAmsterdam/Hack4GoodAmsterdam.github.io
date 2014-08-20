@@ -12,10 +12,11 @@ title: Local Organisation
 <br/><br/><br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/ella.jpg" style="float:left;padding-right:15px" alt="Ella"/> **Ella Gati**: *"Hack4Good combines my passion for technology and for the environment"* </span>
 <br/><br/><br/><br/><br/>
+<span><img src="{{ site.baseurl }}public/images/daria.jpg" style="float:left;padding-right:15px" alt="Daria"/> **Daria Reutovich**: *"Help one another; there's no time like the present and no present like the time"*</span>
 <span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Stijn"/> **Stijn de Bekker**</span>
 <br/><br/><br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Lydia"/> **Lydia Mennes**</span>
 <br/><br/><br/><br/><br/>
-<span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Daria"/> **Daria Reutovich**</span>
+
 
 
