@@ -7,7 +7,7 @@ title: Press and Media
 <a href="{{ site.baseurl }}public/press/hack4good-0.6-English-1.pdf" target="_new">**Amsterdam joins the world's largest Hackathon for Climate Change**</a>
 
 ### Explanation of the #hack4good concept:
-<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/1KmTvL1G7P8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="169" src="//www.youtube-nocookie.com/embed/1KmTvL1G7P8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Coverage previous #hack4good events:
 #### #hack4good 0.5
@@ -18,4 +18,5 @@ title: Press and Media
 * <a href="http://youtu.be/LceCXlchi98" target="_new">**BBC World News**: #hack4good (Video)</a>
 * <a href="http://nos.nl/op3/artikel/574043-wat-nerds-doen-voor-de-filipijnen.html" target="_new">**NOS:** Wat nerds doen voor de Filipijnen (Video)</a>
 * <a href="http://nos.nl/op3/artikel/577000-nerds-en-de-filipijnen-deel-2.html" target="_new">**NOS:** Nerds en de Filipijnen, deel 2 (Video)</a>
+* <a href="http://www.xmediaworks.nl/hack4good-verenigt-wereldwijd-geeks-en-lanceert-oplossingen-voor-reddingsoperaties-rond-typhoon-haiyan-2/" target="_new">**xmediawork:** #hack4good verenigt wereldwijd "geeks" en lanceert oplossingen voorreddingsoperaties rond Typhoon Haiyan.</a>
 
