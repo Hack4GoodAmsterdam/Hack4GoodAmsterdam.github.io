@@ -6,6 +6,9 @@ title: Press and Media
 <a href="{{ site.baseurl }}public/press/hack4good-0.6-Nederlands-1.pdf" target="_new">**Amsterdam hackt internationaal mee tegen klimaatverandering**</a>
 <a href="{{ site.baseurl }}public/press/hack4good-0.6-English-1.pdf" target="_new">**Amsterdam joins the world's largest Hackathon for Climate Change**</a>
 
+### Explanation of the #hack4good concept:
+<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/1KmTvL1G7P8?rel=0" frameborder="0" allowfullscreen></iframe>
+
 ### Coverage previous #hack4good events:
 #### #hack4good 0.5
 * <a href="http://www.theguardian.com/global-development-professionals-network/2014/feb/19/hackathon-apps-developers-hack4good" target="_new">**Guardian**: How to ... make the most of a hackathon</a>
