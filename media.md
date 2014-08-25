@@ -7,7 +7,7 @@ title: Press and Media
 <a href="{{ site.baseurl }}public/press/hack4good-0.6-English-1.pdf" target="_new">**Amsterdam joins the world's largest Hackathon for Climate Change**</a>
 
 ### Explanation of the #hack4good concept:
-<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/1KmTvL1G7P8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/1KmTvL1G7P8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Coverage previous #hack4good events:
 #### #hack4good 0.5
