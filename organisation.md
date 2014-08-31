@@ -15,7 +15,7 @@ title: Local Organisation
 <span><img src="{{ site.baseurl }}public/images/daria.jpg" style="float:left;padding-right:15px" alt="Daria"/> **Daria Reutovich**: *"Help one another; there's no time like the present and no present like the time"*</span>
 <br/><br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/stijn.png" style="float:left;padding-right:15px" alt="Stijn"/> **Stijn de Bekker**: *"What better way to spend your weekend, than hacking together for a better world?"*" </span>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Lydia"/> **Lydia Mennes**</span>
 <br/><br/><br/><br/><br/>
 
