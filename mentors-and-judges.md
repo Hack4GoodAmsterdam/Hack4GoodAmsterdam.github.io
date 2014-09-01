@@ -9,6 +9,8 @@ title: Judges and Mentors
 <br/><br/><br/><br/>
 
 ### Mentors
+<span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Eelke Boezeman"/>**Eelke Boezeman** - [Peerby](https://peerby.com): *""*</span>
+<br/><br/><br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Frits Oukes"/>**Frits Oukes** - [Red Merito](http://www.redmerito.nl/): *""*</span>
 <br/><br/><br/><br/><br/>
-<span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Maria Arvidsson"/>**Maria Arvidsson** - [Peerby](https://peerby.com/): *""*</span>
+<span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Maria Arvidsson"/>**Maria Arvidsson** - : *""*</span>
