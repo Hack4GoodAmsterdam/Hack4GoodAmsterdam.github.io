@@ -4,7 +4,8 @@ title: Judges and Mentors
 ---
 ### Judges
 <span><img src="{{ site.baseurl }}public/images/ruth-van-wieren.jpg" style="float:left;padding-right:15px" alt="Ruth van Wieren"/>**Ruth van Wieren** - [Rockstart](http://rockstart.com/)<br/>
-*Started her career on the child labour & education in Southeast Asia. Since 2008 worked on CSR and sustainable development*</span><br/>
+*Started her career on the child labour & education in Southeast Asia. Since 2008 worked on CSR and sustainable development.*</span>
+<br/><br/>
 <span><img src="{{ site.baseurl }}public/images/joost-brinkman.jpg" style="float:left;padding-right:15px" alt="Joost Brinkman"/>**Joost Brinkman** - [Accenture](http://www.accenture.nl/)</span>
 <br/><br/><br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/elmar-weber.jpg" style="float:left;padding-right:15px" alt="Elmar Weber"/>**Elmar Weber** - [Cupenya](http://cupenya.com/)<br/>
