@@ -20,6 +20,7 @@ One of the critical factors for a successful hackathon project that gets real-wo
 [![King Tides Project]({{ site.baseurl }}public/images/king-tides-project.png)](http://kingtides.net/)
 [![World Wide Fund]({{ site.baseurl }}public/images/wwf.png)](http://wwf.panda.org/about_our_earth/aboutcc/)
 [![UN Climate Summit]({{ site.baseurl }}public/images/un-climate-summit.png)](http://www.un.org/climatechange/summit/)
+[![Forum for the Future]({{ site.baseurl }}public/images/forum-for-the-future.png)](http://www.forumforthefuture.org/)
 
 
 #### Climate Awareness Challenges
