@@ -4,10 +4,10 @@ title: Climate Change Challenges
 ---
 One of the critical factors for a successful hackathon project that gets real-world results is to pitch well-defined problem statements for teams to respond to. Successful, sustainable projects are created when organisations bring forwards key challenges and problem statements, collaborate with teams over the 48-hour event and show an ongoing commitment to creating real-world impact with these projects. We have engaged with various Challenge Partners that address the 15 global challenges of this hackathon. Examples of challenges are:
 
-- [Conservation Drones: Crowdsourcing for Monitoring Palm Oil Expansion](https://geekli.st/hackathon/hack4good-06/idea/5406c792f715e79509aed63f)
-- [Friends of the Earth: Help UK Schools Run on Sun](https://geekli.st/hackathon/hack4good-06/idea/53fc72d3a85e9ec10739d867)
-- [WeForest: Reforestation for small-scale farmers in Zambia: tackling monitoring solutions](https://geekli.st/hackathon/hack4good-06/idea/53fb10d049710ef506a8440e)
--  [More challenges](https://geekli.st/hackathon/hack4good-06/?tab=ideas)
+- [**Conservation Drones:** Crowdsourcing for Monitoring Palm Oil Expansion](https://geekli.st/hackathon/hack4good-06/idea/5406c792f715e79509aed63f)
+- [**Friends of the Earth:** Help UK Schools Run on Sun](https://geekli.st/hackathon/hack4good-06/idea/53fc72d3a85e9ec10739d867)
+- [**WeForest:** Reforestation for small-scale farmers in Zambia: tackling monitoring solutions](https://geekli.st/hackathon/hack4good-06/idea/53fb10d049710ef506a8440e)
+-  [**More challenges**](https://geekli.st/hackathon/hack4good-06/?tab=ideas)
 
 #### Global Challenge Partners
 [![Fauna & Flora]({{ site.baseurl }}public/images/florafauna.png)](http://www.fauna-flora.org/)
