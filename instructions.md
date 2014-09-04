@@ -5,6 +5,7 @@ title: Instructions
 The Geeklist international #hack4good hackathon series is a huge hackathon. This event will run in 40+ cities and online as well. We expect 3,000+ of the world's greatest developers to participate worldwide.
 
 ## Steps to get involved
+* Register at the <a href="http://bit.ly/h4g-ams" target="_new">**Hackathon**</a>
 * Go to the <a href="https://geekli.st/hackathon/hack4good-06" target="_new">**Hackathon App**</a>
 * Click "Join the Hackathon" at the top-right of this page
 * Choose your City, or choose Online
