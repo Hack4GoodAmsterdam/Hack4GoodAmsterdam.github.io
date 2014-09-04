@@ -9,8 +9,12 @@ One of the critical factors for a successful hackathon project that gets real-wo
 - [**WeForest:** Reforestation for small-scale farmers in Zambia: tackling monitoring solutions](https://geekli.st/hackathon/hack4good-06/idea/53fb10d049710ef506a8440e)
 -  [**More challenges**](https://geekli.st/hackathon/hack4good-06/?tab=ideas)
 
+#### Local Challenge Partners
+[![Conservation Drones]({{ site.baseurl }}public/images/conservation-drones.png)](http://conservationdrones.org/)
+[![BAS Nederland]({{ site.baseurl }}public/images/bas-nederland.png)](http://basnederland.nl/)
+
 #### Global Challenge Partners
-[![Fauna & Flora]({{ site.baseurl }}public/images/florafauna.png)](http://www.fauna-flora.org/)
+[![Fauna & Flora International]({{ site.baseurl }}public/images/florafauna.png)](http://www.fauna-flora.org/)
 [![350.org]({{ site.baseurl }}public/images/350org.png)](http://350.org/)
 [![Department of Energy & Climate Change]({{ site.baseurl }}public/images/depenergy.png)](https://www.gov.uk/government/organisations/department-of-energy-climate-change)
 [![We Forest]({{ site.baseurl }}public/images/weforest.png)](http://www.weforest.org/)
