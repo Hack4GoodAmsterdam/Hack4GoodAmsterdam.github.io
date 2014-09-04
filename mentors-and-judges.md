@@ -17,3 +17,9 @@ title: Judges and Mentors
 <span><img src="{{ site.baseurl }}public/images/frits-oukes.jpg" style="float:left;padding-right:15px" alt="Frits Oukes"/>**Frits Oukes** - [Red Merito](http://www.redmerito.nl/)</span>
 <br/><br/><br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/maria-arvidsson.jpg" style="float:left;padding-right:15px" alt="Maria Arvidsson"/>**Maria Arvidsson** - Freelancer</span>
+<br/><br/><br/><br/><br/>
+<span><img src="{{ site.baseurl }}public/images/sander-latour.jpg" style="float:left;padding-right:15px" alt="Sander Latour"/>**Sander Latour** - [Perceptum](http://www.perceptum.nl/)<br/>
+*Entrepreneur, with a background in Artificial Intelligence, in pursuit of world-wide collaborative innovation*</span>
+<br/><br/>
+<span><img src="{{ site.baseurl }}public/images/robrecht-jurriaans.jpg" style="float:left;padding-right:15px" alt="Robrecht Jurriaans"/>**Robrecht Jurriaans** - [Perceptum](http://www.perceptum.nl/)<br/>
+*Game Designer, Gamification Expert, Author, Artificial Intelligence Freelancer, Concept Developer*</span>
