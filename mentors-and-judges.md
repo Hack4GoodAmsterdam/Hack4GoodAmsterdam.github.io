@@ -4,8 +4,8 @@ title: Judges and Mentors
 ---
 ### Judges
 <span><img src="{{ site.baseurl }}public/images/ruth-van-wieren.jpg" style="float:left;padding-right:15px" alt="Ruth van Wieren"/>**Ruth van Wieren** - [Rockstart](http://rockstart.com/)<br/>
-*Project Manager Smart Energy Program. Expertise in Business Development*</span>
-<br/><br/><br/>
+*Project Manager Smart Energy Program. Expertise in Business Modeling, Storytelling, Re-greening, Circle Economy, CSR.*</span>
+<br/><br/>
 <span><img src="{{ site.baseurl }}public/images/joost-brinkman.jpg" style="float:left;padding-right:15px" alt="Joost Brinkman"/>**Joost Brinkman** - [Accenture](http://www.accenture.nl/)<br />
 *Lead Accenture Sustainability Services Benelux. Expertise in Sustainable Energy*</span>
 <br/><br/><br />
