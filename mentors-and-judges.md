@@ -31,6 +31,6 @@ title: Judges and Mentors
 <span><img src="{{ site.baseurl }}public/images/frits-oukes.jpg" style="float:left;padding-right:15px" alt="Frits Oukes"/>**Frits Oukes** - [Red Merito](http://www.redmerito.nl/)<br />
 *International Project manager Design & Engineering Internet of Things. Expertise in Business Strategy*</span>
 <br/><br/><br />
-<span><img src="{{ site.baseurl }}public/images/maria-arvidsson.jpg" style="float:left;padding-right:15px" alt="Maria Arvidsson"/>**Maria Arvidsson** - Freelancer
+<span><img src="{{ site.baseurl }}public/images/maria-arvidsson.jpg" style="float:left;padding-right:15px" alt="Maria Arvidsson"/>**Maria Arvidsson** - Freelancer<br/>
 *User Experience, Design & Research. Expertise in User Experience and User Interfaces*</span>
 <br/><br/><br/><br/><br/>
