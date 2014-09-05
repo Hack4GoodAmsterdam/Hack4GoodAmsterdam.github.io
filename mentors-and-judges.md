@@ -19,7 +19,7 @@ title: Judges and Mentors
 <br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/don-ginsel.jpg" style="float:left;padding-right:15px" alt="Don Ginsel"/>**Don Ginsel** - [Principe Management](http://www.principemanagement.nl/)<br/>
 *Loves connecting people and coaching other entrepreneurs. Expertise in strategy, corporate finance and venture capital*</span>
-<br/><br/><br/>
+<br/><br/>
 <span><img src="{{ site.baseurl }}public/images/eelke-boezeman.jpg" style="float:left;padding-right:15px" alt="Eelke Boezeman"/>**Eelke Boezeman** - [Peerby](https://peerby.com)</span>
 <br/><br/><br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/frits-oukes.jpg" style="float:left;padding-right:15px" alt="Frits Oukes"/>**Frits Oukes** - [Red Merito](http://www.redmerito.nl/)</span>
