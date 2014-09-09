@@ -19,6 +19,9 @@ title: Judges and Mentors
 <span><img src="{{ site.baseurl }}public/images/don-ginsel.jpg" style="float:left;padding-right:15px" alt="Don Ginsel"/>**Don Ginsel** - [Principe Management](http://www.principemanagement.nl/)<br/>
 *Loves connecting people and coaching other entrepreneurs. Expertise in Strategy, Corporate Finance and Venture Capital*</span>
 <br/><br/>
+<span><img src="{{ site.baseurl }}public/images/thomas-vaassen.jpg" style="float:left;padding-right:15px" alt="Thomas Vaassen"/>**Thomas Vaassen** - [Impacthub Amsterdam](http://amsterdam.impacthub.net/)<br/>
+*Co-Founder & Director Impacthub Amsterdam*</span>
+<br/><br/><br />
 <span><img src="{{ site.baseurl }}public/images/sander-latour.jpg" style="float:left;padding-right:15px" alt="Sander Latour"/>**Sander Latour** - [Perceptum](http://www.perceptum.nl/)<br/>
 *Entrepreneur, with a background in Artificial Intelligence, in pursuit of world-wide collaborative innovation*</span>
 <br/><br/><br/>
@@ -33,4 +36,7 @@ title: Judges and Mentors
 <br/><br/><br />
 <span><img src="{{ site.baseurl }}public/images/maria-arvidsson.jpg" style="float:left;padding-right:15px" alt="Maria Arvidsson"/>**Maria Arvidsson** - Freelancer<br/>
 *User Experience, Design & Research. Expertise in User Experience and User Interfaces*</span>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
+<span><img src="{{ site.baseurl }}public/images/placHolder.png" style="float:left;padding-right:15px" alt="Omid Aazami"/>**Omid Aazami** - []()<br/>
+**</span>
+<br/><br/><br /><br />
