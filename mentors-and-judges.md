@@ -40,6 +40,5 @@ title: Judges and Mentors
 <span><img src="{{ site.baseurl }}public/images/maria-arvidsson.jpg" style="float:left;padding-right:15px" alt="Maria Arvidsson"/>**Maria Arvidsson** - Freelancer<br/>
 *User Experience, Design & Research. Expertise in User Experience and User Interfaces*</span>
 <br/><br/><br/>
-<span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Omid Aazami"/>**Omid Aazami** - []()<br/>
+<span><img src="{{ site.baseurl }}public/images/placeHolder.png" style="float:left;padding-right:15px" alt="Omid Aazami"/>**Omid Aazami**<br/>
 **</span>
-<br/><br/><br /><br />
