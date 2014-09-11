@@ -30,7 +30,7 @@ title: Judges and Mentors
 <br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/cristian-andreica.jpg" style="float:left;padding-right:15px" alt="Cristian Andreica"/>**Cristian Andreica** - [Lokalinc](https://www.lokalinc.nl/)<br/>
 *CTO at Lokalinc, Entrepreneur and Web Developer with a passion for Internet and Agile Development*</span>
-<br/><br/>
+<br/><br/><br/>
 <span><img src="{{ site.baseurl }}public/images/eelke-boezeman.jpg" style="float:left;padding-right:15px" alt="Eelke Boezeman"/>**Eelke Boezeman** - [Peerby](https://peerby.com)<br/>
 *Chief Technology Officer. Expertise in Software Development*</span>
 <br/><br/><br/>
